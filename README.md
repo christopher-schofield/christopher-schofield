@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christopher-schofield
 - 👀 I’m interested in camping, fishing, and eating.
-- 🌱 I’m currently learning C#, Docker, PostgreSQL, and microservices.
+- 🌱 I’m currently learning C#, Docker, PostgreSQL, and .NET 6 & 7.
 - 💞️ I’m looking to collaborate on whatever.
 - 📫 How to reach me 
 
